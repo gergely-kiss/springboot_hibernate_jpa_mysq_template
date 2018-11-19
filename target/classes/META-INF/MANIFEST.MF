@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springbootmysqlhibernatemysqltemplate
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: kiss-
+Implementation-Vendor-Id: uk.gergely.kiss
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springbootmysqlhibernatemysqltemplate
+Created-By: Maven Integration for Eclipse
+
